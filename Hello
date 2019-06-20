@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(void)
+{
+	printf("I am beiguodexue.Hello everyone1");
+	return 0;
+}
